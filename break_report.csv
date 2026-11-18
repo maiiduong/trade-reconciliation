@@ -1,0 +1,38 @@
+trade_id,break_type,counterparty,exposure_usd,age_days,priority
+SC-000010,Quantity mismatch,Dune Brokerage,1185068.88,45.0,High
+SC-000131,Failed settlement,Dune Brokerage,504854.5,31.0,High
+SC-000171,Wrong side,Dune Brokerage,442426.0,26.0,High
+SC-000327,Pending past due,Elm Capital Markets,430806.0,6.0,High
+SC-000132,Quantity mismatch,Alder Securities,425234.34,31.0,High
+SC-000374,Pending past due,Dune Brokerage,159475.8,3.0,High
+SC-000260,Failed settlement,Alder Securities,90334.33,14.0,High
+SC-000405,Missing internally,Unknown (not booked),87875.0,39.0,High
+SC-000403,Missing internally,Unknown (not booked),73040.0,5.0,High
+SC-000402,Duplicate booking,Cedar Trading,62618.4,42.0,High
+SC-000158,Missing at custodian,Elm Capital Markets,52840.2,26.0,High
+SC-000199,Failed settlement,Cedar Trading,51617.68,21.0,High
+SC-000329,Missing at custodian,Dune Brokerage,44533.39,6.0,High
+SC-000246,Failed settlement,Birch Markets,40582.26,17.0,High
+SC-000401,Duplicate booking,Dune Brokerage,31579.91,7.0,High
+SC-000138,Wrong side,Birch Markets,31065.58,31.0,High
+SC-000404,Missing internally,Unknown (not booked),28105.0,25.0,High
+SC-000313,Missing at custodian,Dune Brokerage,27408.0,7.0,High
+SC-000057,Quantity mismatch,Dune Brokerage,23224.31,39.0,High
+SC-000115,Quantity mismatch,Birch Markets,9059.4,32.0,High
+SC-000267,Price mismatch,Dune Brokerage,7057.2,13.0,High
+SC-000084,Price mismatch,Dune Brokerage,905.5,35.0,High
+SC-000039,Price mismatch,Dune Brokerage,137.55,41.0,High
+SC-000279,Price mismatch,Dune Brokerage,107.04,12.0,High
+SC-000258,Price mismatch,Elm Capital Markets,53.78,14.0,High
+SC-000178,Amount mismatch,Cedar Trading,48.75,25.0,High
+SC-000179,Amount mismatch,Dune Brokerage,25.0,25.0,High
+SC-000032,Amount mismatch,Elm Capital Markets,12.0,41.0,High
+SC-000298,Amount mismatch,Birch Markets,7.5,10.0,High
+SC-000382,Missing at custodian,Birch Markets,32569.08,0.0,Medium
+SC-000385,Missing at custodian,Dune Brokerage,28347.6,0.0,Medium
+SC-000367,Pending past due,Birch Markets,17765.47,4.0,Medium
+SC-000376,Quantity mismatch,Dune Brokerage,16849.65,3.0,Medium
+SC-000250,Late settlement,Alder Securities,2059090.0,4.0,Resolved
+SC-000126,Late settlement,Cedar Trading,930494.0,4.0,Resolved
+SC-000120,Late settlement,Cedar Trading,667799.1,4.0,Resolved
+SC-000048,Late settlement,Dune Brokerage,256621.8,2.0,Resolved
